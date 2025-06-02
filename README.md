@@ -1,6 +1,7 @@
 # The Digital Balance: Exploring Social Media Use and Workplace Productivity
 
 ## 📊 Overview
+![Dashboard Preview](https://github.com/gaiusufondu/The-Digital-Balance-Exploring-Social-Media-Use-and-Workplace-Productivity/blob/main/Sleep%20and%20social%20media%20productivity%20dashboard.png)
 
 This report investigates the relationship between social media usage, sleep habits, and workplace productivity. Using a dataset of over 30,000 survey responses, we analyze behavioral patterns across job types, genders, and digital wellbeing practices. Our findings reveal nuanced correlations between screen time, perceived and actual productivity, and sleep duration. For instance, users who sleep 6–8 hours and use social media for 2–4 hours daily show the highest productivity. These insights offer actionable guidance for HR professionals, behavioral scientists, and workplace strategists.
 
